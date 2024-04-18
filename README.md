@@ -26,4 +26,4 @@ Visualizations are adjusted and Slicers are created to connect all the pivot tab
 
 Hence we say that Males with middle age are more interested in Bike Purchase but later they loose their interest leading in decline in commute distance.
    
-2.
+### Note:- Always keep the copy of raw data to reduce data error during Data Operations.
